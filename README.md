@@ -1,6 +1,9 @@
-Paleidus programà pagrindinis Meniu: Enter the desired option:  1 - Interactive IBAN numbers verification, 2 - Checking IBAN numbers from text file.    0 - Exit program. When you press a number - press ENTER.
-Paspaudus 1 ir Enter ásijungia interaktyvus IBAN sàskaitos tikrinimas. Paspaudus 2 - ásijungia IBAN sàskaitø tikrinimas ið failo.   0 - baigia programos darbà.
-Paspaudus 1  ir norint gráþti á ankstesná meniu, reikia paraðyti -1 ir paspausti ENTER.
-Paspaudus 2  ir nepavykus ávesti teisingo kelio iki failo, galite paraðyti -1 ir paspausti ENTER, tuomet gráðite á  ankstesná meniu.
-Paspaudus 2 ir teisingai nurodþius kelià iki failo, programa nuskaitys ir patikrins failà. Nuskaitytus ir patikrintus IBAN atvaizduos ekrane, taip pat iðsaugos tame paèiame kataloge ir su tuo paèiu pavadinimu, bei failo plëtiniu .out.
-Nuskaièius failà programa automatiðkai gráð á pagindiná meniu.
+Iban validator
+Program, which checking input Iban from keyboard and from file.
+
+Getting Started
+When you run the program, the main menu is: "Enter the desired option: 1 - Checking IBAN numbers from text file. 0 - Exit program." Than you write 1 and press Enter activates an interactive IBAN account checking. ( You can check Iban which you imput via keyboard.)  
+If you want check Iban acounts from file - write 2 and Enter. If do not correct path to the file, you can write -1 and press ENTER. then return to the previous menu. When you write 2 and correctly point the path to the file, the program will scan and check the file. The scanned and verified IBAN will be displayed on the screen as well as saved in the same directory with the same name and file extension ".out". When the file is scanned, the program automatically returns to the main menu.
+
+Prerequisites
+Need have JDK, JRE, IDE.
