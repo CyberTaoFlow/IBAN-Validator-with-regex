@@ -1,6 +1,11 @@
-Paleidus programà pagrindinis Meniu: Enter the desired option:  1 - Interactive IBAN numbers verification, 2 - Checking IBAN numbers from text file.    0 - Exit program. When you press a number - press ENTER.
-Paspaudus 1 ir Enter ásijungia interaktyvus IBAN sàskaitos tikrinimas. Paspaudus 2 - ásijungia IBAN sàskaitø tikrinimas iğ failo.   0 - baigia programos darbà.
-Paspaudus 1  ir norint gráşti á ankstesná meniu, reikia parağyti -1 ir paspausti ENTER.
-Paspaudus 2  ir nepavykus ávesti teisingo kelio iki failo, galite parağyti -1 ir paspausti ENTER, tuomet gráğite á  ankstesná meniu.
-Paspaudus 2 ir teisingai nurodşius kelià iki failo, programa nuskaitys ir patikrins failà. Nuskaitytus ir patikrintus IBAN atvaizduos ekrane, taip pat iğsaugos tame paèiame kataloge ir su tuo paèiu pavadinimu, bei failo plëtiniu .out.
-Nuskaièius failà programa automatiğkai gráğ á pagindiná meniu.
+Iban sÄ…skaitÅ³ tikrinimo programa
+
+Tikrina Iban Ä¯vestus klaviatÅ«ra ir tikrina Iban iÅ¡ failo.
+
+Paleidus programÄ… pagrindinis Meniu: "Enter the desired option:  1 - Interactive IBAN numbers verification, 2 - Checking IBAN numbers from text file.  0 - Exit program. When you press a number - press ENTER."
+ParaÅ¡ius 1 ir paspaudus Enter Ä¯sijungia interaktyvus IBAN sÄ…skaitos tikrinimas. RaraÅ¡ius 2 ir paspaudus Enter - Ä¯sijungia IBAN sÃ skaitÅ³ tikrinimas iÅ¡ failo.   0 - baigia programos darbÄ….
+Paspaudus 1  ir norint grÄ¯Å¾ti Ä¯ ankstesnÄ¯ meniu, reikia paraÅ¡yti -1 ir paspausti ENTER.
+
+Paspaudus 2  ir nepavykus Ä¯vesti teisingo kelio iki failo, galite paraÅ¡yti -1 ir paspausti ENTER, tuomet grÄ¯Å¡ite Ä¯  ankstesnÄ¯ meniu.
+Paspaudus 2 ir teisingai nurodÅ¾ius keliÄ… iki failo, programa nuskaitys ir patikrins failÄ…. Nuskaitytus ir patikrintus IBAN atvaizduos ekrane, taip pat iÅ¡saugos tame paÄiame kataloge ir su tuo paÄiu pavadinimu, bei failo plÄ—tiniu .out.
+NuskaiÄius failÄ… programa automatiÅ¡kai grÄ¯Å¡ Ä¯ pagindinÄ¯ meniu.
