@@ -1,3 +1,4 @@
+package ibanCheching;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -64,10 +65,10 @@ public class IbanChechingFromFile {
 	}
 
 	private static void WritingToFile(ArrayList<String> foundaz) throws IOException {
-		String slesh = "\\";
+		String twoSlash = "\\";
 		String FileExtension = ".out";
 
-		String savingPlace = SavingFilePlace() + slesh + OriginalFileName() + FileExtension;
+		String savingPlace = SavingFilePlace() + twoSlash + OriginalFileName() + FileExtension;
 
 		System.out.println("Saved file: " + savingPlace + "\n");
 		File file = new File(savingPlace);
