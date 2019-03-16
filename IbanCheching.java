@@ -1,12 +1,12 @@
 
 import java.util.regex.Pattern;
 
-public class IbanCheching {
+public class IbanChecking {
 
 	private static String ibanNumber;
 
-	public IbanCheching(String inputIban) {
-		IbanCheching.ibanNumber = inputIban;
+	public IbanChecking(String inputIban) {
+		IbanChecking.ibanNumber = inputIban;
 	}
 
 	public static void checkingIban() {
